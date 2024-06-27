@@ -1,6 +1,8 @@
 ## My Marlin Configuration
 for the curious or similarly-equipped...
 
+For Marlin branch v2.1.x-bugfix
+
 ### My Build
   - Ender 3 Pro
   - Creality v4.2.7 Silent Mainboard (https://www.creality3dofficial.com/products/creality-silent-mainboard-v4-2-7)
